@@ -15,9 +15,8 @@ CakePHP 2
 /.svn
 
 favicon.ico
-
 googlee560073274304b23.html
-
 robots.txt
-
 .htaccess
+app.coffee
+node_modules 
